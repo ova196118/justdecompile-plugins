@@ -19,8 +19,8 @@
     - Reflexil Extension Requires .NET 4.0
 
   </Description>
-  <Version>2015.1.0112.0</Version>
-  <SupportedJDversion>2014.3.1021.0</SupportedJDversion>
+  <Version>2024.1.131.0</Version>
+  <SupportedJDversion>2024.1.131.0</SupportedJDversion>
   <Guid>8C63CC62-D636-4A34-B92D-512F8B4F0EDB</Guid>
   <Url>http://www.telerik.com/products/decompiler/extensions.aspx#assembly-editor-plug-in</Url>
   <Licenses>
